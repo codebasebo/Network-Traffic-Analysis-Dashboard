@@ -100,4 +100,4 @@ For questions or feedback, please contact [Your Email Address] or open an issue 
 
 ## Screenshots
 
-![Dashboard Overview](dashboard.png)
+![Dashboard Overview](dashboard.PNG)
